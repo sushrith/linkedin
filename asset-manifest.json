@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sushrith/linkedin/static/css/main.e1f47d1f.chunk.css",
+    "main.js": "/sushrith/linkedin/static/js/main.44c5cf80.chunk.js",
+    "main.js.map": "/sushrith/linkedin/static/js/main.44c5cf80.chunk.js.map",
+    "runtime-main.js": "/sushrith/linkedin/static/js/runtime-main.c4266214.js",
+    "runtime-main.js.map": "/sushrith/linkedin/static/js/runtime-main.c4266214.js.map",
+    "static/js/2.aac131ea.chunk.js": "/sushrith/linkedin/static/js/2.aac131ea.chunk.js",
+    "static/js/2.aac131ea.chunk.js.map": "/sushrith/linkedin/static/js/2.aac131ea.chunk.js.map",
+    "index.html": "/sushrith/linkedin/index.html",
+    "static/css/main.e1f47d1f.chunk.css.map": "/sushrith/linkedin/static/css/main.e1f47d1f.chunk.css.map",
+    "static/js/2.aac131ea.chunk.js.LICENSE.txt": "/sushrith/linkedin/static/js/2.aac131ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4266214.js",
+    "static/js/2.aac131ea.chunk.js",
+    "static/css/main.e1f47d1f.chunk.css",
+    "static/js/main.44c5cf80.chunk.js"
+  ]
+}
